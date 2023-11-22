@@ -1,0 +1,15 @@
+Hello, world!
+Hello, world!
+đâ: 0
+Hello, world!
+jhh: 0
+Hello, world!
+lâm: 1
+Điểm của bạn vào lần chơi này là:
+phuc: 2
+Điểm của bạn vào lần chơi này là:
+jjj: 0
+Điểm của bạn vào lần chơi này là:
+None: 6
+Điểm của bạn vào lần chơi này là:
+None: 0
