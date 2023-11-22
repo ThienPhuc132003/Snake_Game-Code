@@ -170,6 +170,10 @@ def open_new_window():
     ttk.Label(new_window,text=" ⇠ là đi sang trái ").grid(column=0,row=2,sticky=W)
     ttk.Label(new_window,text=" ⇣ là đi xuống dưới ").grid(column=0,row=3,sticky=W)
     ttk.Label(new_window,text=" ⇡ là đi lên trên ").grid(column=0,row=4,sticky=W)
+    ttk.Label(new_window,text="Nút Change color dùng để đổi màu nền game").grid(column=0,row=5,sticky=W)
+    ttk.Label(new_window,text="Nút reset dùng để reset lại game khi kết thúc game").grid(column=0,row=6,sticky=W)
+    ttk.Label(new_window,text="Nút LeaderBoard hiển thị số điểm cao nhất").grid(column=0,row=7,sticky=W)
+    
     # Pack the new window
     new_window.pack()
 def open_new_window2():
@@ -178,6 +182,7 @@ def open_new_window2():
     # Set the title of the new window
     new_window2.title("Hướng dẫn chơi")
     ttk.Label(new_window2,text="Game được viết bởi 3 thành viên gồm:\nĐỗ Tùng Lâm\nĐặng Phương Nam\nTrịnh Văn Thiên Phúc").grid(column=0,row=0)
+    ttk.Label(new_window2,text="!!!Điều khiển con rắn của bạn ăn thức ăn để được số điểm cao nhất!!!").grid(column=0,row=1)
     
     # Pack the new window
     new_window2.pack()
